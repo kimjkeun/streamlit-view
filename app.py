@@ -1,7 +1,9 @@
 import streamlit as st
-view = [100, 150, 40, 50, 100]
+view = [100, 150, 40, 50]
 view
 st.write("Youtube view")
+st.write("# Youtube view")
+st.write("# Youtube view")
 st.write("# Youtube view")
 st.bar_chart(view)
 
